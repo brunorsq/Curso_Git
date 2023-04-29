@@ -1,1 +1,0 @@
-Criando arquivo para deletar pelo git rm
