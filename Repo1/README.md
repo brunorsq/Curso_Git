@@ -62,11 +62,13 @@ GitHub: https://www.github.com/brunorsq
 [![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/)
 
 ## Código fonte
+### Javascript
 ```javascript
 function soma(a, b){
     return a + b;
 }
 ```
+### SQL
 ```sql
 SELECT
     coluna
@@ -74,3 +76,10 @@ FROM tabela
 WHERE
     condição
 ```
+
+## Tarefas
+
+- [x] Tarefa 1
+- [] Tarefa 2
+- [] Tarefa 3
+- [x] Tarefa 4
