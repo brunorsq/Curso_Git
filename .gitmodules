@@ -1,0 +1,3 @@
+[submodule "Repo1/submodulo"]
+	path = Repo1/submodulo
+	url = https://github.com/brunorsq/Curso_Git-Submodulo.git
