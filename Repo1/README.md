@@ -13,3 +13,5 @@ Descrição do título secundário
 **Negrito e _Itálico_**
 
 _Itálico e **Negrito**_
+
+**_Negrito Itálico_**
