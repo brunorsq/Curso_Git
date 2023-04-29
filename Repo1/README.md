@@ -39,3 +39,12 @@ _Itálico e **Negrito**_
     5. SubItem 5
 2. Item 2
 3. Item 3
+
+## Imagens
+### Imagem Local
+
+![Logo do GitHub](img/Octicons-mark-github.svg.png)
+
+### Imagem Externa
+
+![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
