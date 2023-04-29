@@ -60,3 +60,17 @@ GitHub: https://www.github.com/brunorsq
 ### Link com imagem
 
 [![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/)
+
+## Código fonte
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
+```sql
+SELECT
+    coluna
+FROM tabela
+WHERE
+    condição
+```
