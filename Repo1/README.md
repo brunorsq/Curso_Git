@@ -48,3 +48,15 @@ _Itálico e **Negrito**_
 ### Imagem Externa
 
 ![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+## Links
+
+[Google](https://www.google.com)
+
+[https://www.google.com](https://www.google.com)
+
+GitHub: https://www.github.com/brunorsq
+
+### Link com imagem
+
+[![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/)
