@@ -80,6 +80,6 @@ WHERE
 ## Tarefas
 
 - [x] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
+- [ ] Tarefa 2
+- [ ] Tarefa 3
 - [x] Tarefa 4
